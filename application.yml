@@ -1,3 +1,6 @@
+spring:
+   application:
+       name: Confing-defualt
 eureka:
    instance:
       preferIpAddress: true
